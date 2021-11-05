@@ -1,1 +1,1 @@
-- Add a research paper in this folder
+- Add research papers in this folder and provide path in the code to extract the summary
