@@ -4,7 +4,7 @@ A simple extractive summary generator
 
 
 
-![Overview of Summa Bot](https://github.com/SOHAIL1996/NLP_PROJECT_SUMMABOT/blob/main/figures/Summa_bot_work_flow.png)
+![Overview of Summa Bot](https://github.com/talhamohsin/Extractive-Text-Summarization-of-Research-Papers/blob/main/figures/Summa_bot_work_flow.png)
 
 ## Running SummaBot
 - Download the glove, w2vec, and fasttext pre-trained models from here.
