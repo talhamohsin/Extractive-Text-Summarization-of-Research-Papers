@@ -1,0 +1,11 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Talha"
+  given-names: "Muhammad"
+- family-names: "Sohail"
+  given-names: "Salman Omar"
+title: "Extractive Text Summarization of Research Papers (SummaBot)"
+version: 1.0.0
+date-released: 2022-11-05
+url: "https://github.com/talhamohsin/Extractive-Text-Summarization-of-Research-Papers"
